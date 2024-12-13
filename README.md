@@ -1,5 +1,7 @@
 # Simple Docker
 
+Учебный проект, School 21
+
 Введение в докер. Разработка простого докер-образа для собственного сервера.
 
 ## Part 1. Готовый докер
@@ -86,9 +88,3 @@
 ##### Останови все запущенные контейнеры.
 ##### Собери и запусти проект с помощью команд `docker-compose build` и `docker-compose up`.
 ##### Проверь, что в браузере по *localhost:80* отдается написанная тобой страничка, как и ранее.
-# DO6_CICD
-# DO5_SimpleDocker
-# DO5_SimpleDocker
-# DO5_SimpleDocker
-# DO5_SimpleDocker
-# DO5_SimpleDocker
